@@ -6,4 +6,4 @@ Web Blocks is a new block-based programming editor which allows novices users to
 
 ## Accessing Web Blocks
 
-Web Blocks can be installed and set up very easily - instructions for this, as well as running the development environment and test suites, are included in manual.md - or, you can use the live deployment which is available at [WebBlocks](https://lilyfleetingcraig.github.io/web-blocks/).
+Web Blocks can be installed and set up very easily - instructions for this, as well as running the development environment and test suites, are included in manual.md - or, you can use the live deployment which is available at [Web Blocks](https://lilyfleetingcraig.github.io/web-blocks/).
