@@ -10,15 +10,14 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/ci/lilyfleetingcraig/learning-from-scratch.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="CI" src="https://www.shieldcn.dev/github/ci/lilyfleetingcraig/learning-from-scratch.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/license/lilyfleetingcraig/learning-from-scratch.svg?variant=ghost&amp;size=sm&amp;mode=dark"><img alt="License" src="https://www.shieldcn.dev/github/license/lilyfleetingcraig/learning-from-scratch.svg?variant=ghost&amp;size=sm&amp;mode=light"></picture>
 
-  [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
-  [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+
 </div>
-
-
 
 Web programming is considered an engaging entry point to learning to code, but it comes with its own set of challenges that can push away novices. Block-based programming is a popular solution to this problem, however no accessible system exists for young students. This project investigated the usability of WebBlocks, a new simpliﬁed block-based editor for HTML and CSS. It was found that participants reported signiﬁcantly higher perceptions of ease of web programming after use of the system, though there is room for improvements to be made to support usability for inexperienced users speciﬁcally.
 
@@ -78,7 +77,7 @@ This chapter provides an overview of the WebBlocks application which has been im
   <img width="45%" src="https://github.com/user-attachments/assets/7a2d0bfe-1322-4ffc-9768-36b8ae0de63f" />
 </div>
 
-WebBlocks is a new block-based programming editor which allows novices users to create websites using a code-by-blocks approach. Users are able to code both the structure and style of the page using separate environments, while viewing a preview of either the rendered site or its compiled code - this is demonstrated above. 
+WebBlocks is a new block-based programming editor which allows novices users to create websites using a code-by-blocks approach. Users are able to code both the structure and style of the page using separate environments, while viewing a preview of either the rendered site or its compiled code - this is demonstrated above.
 
 The completed WebBlocks prototype developed over the course of the project can be accessed [here](https://lilyfleetingcraig.github.io/dissertation/webblocks/) - the codebase can be found in `/webblocks/`. If you want to run the code yourself, you can find instructions in `manual.md`. Additionally, if you want to see the current further progress of development, feel free to visit [here](https://lilyfleetingcraig.github.io/web-blocks/), or the [web-blocks repository](https://github.com/lilyfleetingcraig/web-blocks) on GitHub.
 
